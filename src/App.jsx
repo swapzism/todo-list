@@ -24,7 +24,7 @@ const App = () => {
             <div className="main_div">
                 <div className="center_div">
                     <br />
-                        <h1>To Do List</h1>
+                        <h1>Todo List</h1>
                     <br />
                     <input 
                         type='text'
